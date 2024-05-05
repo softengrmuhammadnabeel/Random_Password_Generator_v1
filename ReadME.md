@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 ### Usage
 
-To generate a random password, adjust the length slider to your desired password length and check the options to include numbers and special characters as needed. Then, click the "Generate Password" button to generate your password.
+To generate a random password, adjust the length slider to your desired password length and check the options to include numbers and special characters as needed. Then, And you dont need to click any button to generate your password, It automatic generate on selecting.
 
 ## Contributing
 
